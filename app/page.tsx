@@ -9,6 +9,7 @@ export default function Home() {
 
       {/* Board */}
       <Board />
+      
     </main>
   )
 }
